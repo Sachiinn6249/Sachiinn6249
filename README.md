@@ -69,7 +69,7 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachiinn6249&show_icons=true&locale=en&layout=compact" alt="sachiinn6249" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachiinn6249&" alt="sachiinn6249" />
+  
 </div>
 
